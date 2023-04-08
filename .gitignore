@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+env/
+
+# Logs
+*.log
+
+# Cache files
+*.swp
+*.swo
+*.swn
+
+# Security files
+*.key
+*.pem
+*.crt
